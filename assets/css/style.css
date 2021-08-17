@@ -1,0 +1,24 @@
+@import url('https://fonts.googleapis.com/css2?family=Style+Script&display=swap');
+
+.style {
+    margin: 13%;
+    width: 50vw;
+    padding: 40px;
+    background-color: skyblue;
+    font-family: 'Style Script', cursive;
+    font-size: 3em;
+    border-radius: 5px;
+  }
+
+  button {
+    background:grey;
+    color: white;
+    border-radius: 5px;
+    padding: 5px;
+  }
+
+  input {
+    border-radius: 5px;
+    padding: 3px;
+    margin-bottom: 5px;
+  }
